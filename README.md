@@ -24,7 +24,7 @@ They are all part of the exact same chain. **None of them are talking to each ot
 
 ## 💡 The Solution
 
-**[👉 Watch the Demo Video Here ]((https://www.linkedin.com/posts/earlapally-sahith-siddarth_lekhana-turbohaq26-turbotic-ugcPost-7431258011521855488-RCq4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEvOhakBCHt5m56y9KadVukW661zzfv8gkA))**
+**[👉 Watch the Demo Video Here](https://www.linkedin.com/posts/earlapally-sahith-siddarth_lekhana-turbohaq26-turbotic-ugcPost-7431258011521855488-RCq4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEvOhakBCHt5m56y9KadVukW661zzfv8gkA)**
 
 Provide one plain English description of your problem. Give it 60 seconds. Here is what comes out the other side:
 
