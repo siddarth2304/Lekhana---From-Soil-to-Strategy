@@ -62,7 +62,7 @@ What makes Lekhana different from every other AgriTech automation? **Zero silos.
 
 * **Event:** TurboHaQ '26
 * **Powered By:** Turbotic, QiBR Technologies
-* **Tech Stack:** *(Add your specific tech stack here - e.g., Python, OpenAI API, Google Sheets API, etc.)*
+
 
 ---
 
